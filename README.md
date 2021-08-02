@@ -1,4 +1,4 @@
-# Rasa Chitacht Assiatnat
+# Rasa Chitachat Assiatnat
 
 rasa init
 
