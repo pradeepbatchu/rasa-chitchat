@@ -1,4 +1,4 @@
-# Rasa Chitachat Assiatnat
+# Rasa Chitachat Assistant
 
 rasa init
 
